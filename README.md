@@ -1,9 +1,9 @@
 > [!TIP]
 > Read this first. 
 
-# New York City's 2019 AirBnB data analysis using Python :snake:
+# New York City's AirBnB data analysis using Python :snake:
 
-“AB_NYC_2019” is an official AirBnB dataset containing information and metrics about New York City listings for the year 2019. This dataset was retrieved from Kaggle. 
+“AB_NYC_2019” is an official AirBnB dataset containing key information about all New York City's listings for the year 2019. This dataset was retrieved from Kaggle. 
 
 ## The task
 
@@ -13,7 +13,7 @@
 - Explore the data and provide data-driven insights 
 - Visualize findings
 
-Please take a look at my code and let me know your thoughts! :blush:
+Please take a look around and let me know your thoughts! :blush:
 
 ## Findings
 
@@ -27,6 +27,4 @@ Please take a look at my code and let me know your thoughts! :blush:
 
 - Lastly, with **629 reviews** in 2019 only, Bronx's single *"Room near JFK Queen Bed"* is the **top reviewed listing** (id 9145202) by host Dona.
 
-Thank you for checking this repo out! :star2:
-
-![My Image](img.png)
+Thank you for checking out this repo! :star2:
